@@ -1,0 +1,49 @@
+{
+    "breadcrumbs":null,
+    "canonical":null,
+    "filters":null,
+    "images_style":null,
+    "indexable":true,
+    "meta_data":{
+      "heading":"Outlet Pet",
+      "title":"Outlet Pet",
+      "title_color": "",
+      "description":"Aproveite as ofertas incríveis em vários itens no Outlet Pet! Confira as ofertas!",
+      "description_color": ""
+    },
+    "page_info":{
+      "name":"Outlet",
+      "description":"Aproveite as ofertas incríveis em vários itens no Outlet Pet! Confira as ofertas!",
+      "shelf_banner_url":"",
+      "top_banner_image":""
+    },
+    "path":"/colecao/outlet",
+    "type":"collection",
+    "page_components":[
+      {
+        "name":"sub_banner",
+        "position":"top",
+        "component":{
+          "slots":[
+            {
+              "image":"https://staging.petlove.com.br/static/uploads/banner_image/image/12490/DEZ201908-banner-mobile_acessorios_0112_outlet-petlove.jpg",
+              "target":"https://www.petlove.com.br/colecao/petlove-ja-acessorios"
+            },
+            {
+              "image":"https://staging.petlove.com.br/static/uploads/banner_image/image/12490/DEZ201908-banner-mobile_acessorios_0112_outlet-petlove.jpg",
+              "target":"https://www.petlove.com.br/colecao/petlove-ja-acessorios"
+            }
+          ]
+        }
+      },
+      {
+        "name":"promotional_widget",
+        "component":{
+          "icon":"discount",
+          "title":"Desconto de até 60% OFF",
+          "content":"Texto com as regras da promoção"
+        }
+      }
+    ]
+  }
+  
