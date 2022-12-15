@@ -1,4 +1,5 @@
 {
+  "data": {
     "breadcrumbs":null,
     "canonical":null,
     "filters":null,
@@ -46,4 +47,5 @@
       }
     ]
   }
+}
   
